@@ -1,0 +1,35 @@
+
+#train {
+    margin-top: 100px;
+    width: 200px;
+    height: 100px;
+    background-image: url(train.gif);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    position: relative;
+  }
+
+
+
+  .btn1{
+        background-color: green;
+        font-size: large;
+        margin-top: 100px;
+        margin-left: 600px;
+  }
+
+  .btn{
+    margin-left: 20px;
+    font-size: large;
+    background-color: red;
+  }
+
+  .btn1:hover{
+    background-color: yellowgreen;
+    color:aliceblue;
+  }
+
+  .btn:hover{
+    background-color: rgb(159, 69, 69);
+    color:aliceblue;
+  }
